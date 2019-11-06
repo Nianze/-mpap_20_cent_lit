@@ -16,28 +16,8 @@ The feel of randomness is achieved by another composer, Pierre Boulez, who used 
 
 If John Cage opened a new gate, Pierre Schaeffer took it up and opened up the world of recording, who came up with the idea of musique concrète as against the concept of abstract symbols in music sheets. Since then, the music could be sampled from all kinds of sound from the real world and be brought into the concert hall by the help of tape recorders. With this completely new method to make music, Karlheinz Stockhausen, with his talent, started to use razor blade and oscillator to make special sound effects in tape recorder, and came up with his Gesang der Junglinge. Musicians were able to make more decisions for every sound they make.
 
-----------
-
-Towards the end of 1900, however, more imaginative stuff gets involved into music as science/physics/visual arts get evolved, which changed our way of how we see the world and music reflects this change.
-
-Knowing what's happening in this world currently as well as in the past, music of this age is not the same as the music of the past, according to the the evolving of the ideas (Newton -> Einstein -> ?). As a principle, music should speak to the current age instead of echoing the past, if want to be successful in the current age.
+From this historical trend, we can clearly see that music changes in similar paces as progression in other fields such as the progress in science and technology. With the new scientific discovery, such as the theory of Relativity and uncertainty principle, people tend to see the world in a new different way, which reflects in the music. With more innovative method to create music, such as tape recorder, more noval sounds get involved into music, which in turn might change the way of how we see the world. 
 
 - measure of originality: has something been done before
 [completely old thing, repeated in the past for many times, boring] <----------------------> [completely new, no one understand what's going on]
 to be successful in the music world, new enough to be different, but also familiar enough for people to recognize yourself
-
-
-
-"How do you find the music back then relate to the music of today" -> creating your own sound.
-
-----
-
-Lecture 5 (2019.10.09)
-- 1952: Olivier Messiaen in the prison created the music piece "Quatuor pour la fin du temps ("Quartet for the end of time") 
-- 1950th, people started to understand what is sound: air/water/etc pressure variation, starting by recording/capturing real-world sound in the wild and making them musical element.
-- think about: in complicated merged sounds, how to highlight the specific sound tone that we want to create
-- Karlheinz Stockhausen Gesang der Junglinge (son of the children) using razor blade, splicer, oscillator to make special effect. Very fun effect. Takes a lot of time. Being able to make decision for every sound effect
-
-Lecture 6 (2019.10.16)
-- Karlheinz Stockhausen Gesang der Junglinge : novelty, carefully made sounds designed by a person, first one in human history to use new techniques to create new sounds, to explore the boarders of music using tape techniques.
-- rhapsody in blue (in sawtooth waveform) by a Canadian musician using a keyboard to create a smooth sound.
