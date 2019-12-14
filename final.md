@@ -8,11 +8,11 @@ This semester I have read some papers about introducing machine learning technol
 
 ## 2. Primary characters of music in history
 
-1600-1900: music is used to express human emotion and feelings, and the structure is in a synchronous, deterministic, and palindromic way. Classic musical instruments were used.
-1900-1925: music that is not in a synchronous structure started to show up, classical instruments were used in a different way.
-1925-1950: new structure such as atonality, or non-structure such as randomness introduced by John Cage showd up. 
-1950-2000: new technology such as tape recorders were used to not only store the audio, but also in making new music; the concept of musique concrète set free the definition of music notes, so that any sound, natural or artificial, could be used to make music
-2000-present: medium of processing and recording music transformed from analogue to digital, computer/software starts to play an important role in music production; music will continue to evolve with new technology advances
+- 1600-1900: music is used to express human emotion and feelings, and the structure is in a synchronous, deterministic, and palindromic way. Classic musical instruments were used.
+- 1900-1925: music that is not in a synchronous structure started to show up, classical instruments were used in a different way.
+- 1925-1950: new structure such as atonality, or non-structure such as randomness introduced by John Cage showd up. 
+- 1950-2000: new technology such as tape recorders were used to not only store the audio, but also in making new music; the concept of musique concrète set free the definition of music notes, so that any sound, natural or artificial, could be used to make music
+- 2000-present: medium of processing and recording music transformed from analogue to digital, computer/software starts to play an important role in music production; music will continue to evolve with new technology advances
 
 ## 3. How would the character of music today affect my interests?
 
